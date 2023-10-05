@@ -1,3 +1,4 @@
 # css-flexbox-phto-gallery
 
-https://codepen.io/awinash-goswami/pen/KKbGbRY
+<a href="https://example.com" target="_blank">Visit Example.com</a>
+
