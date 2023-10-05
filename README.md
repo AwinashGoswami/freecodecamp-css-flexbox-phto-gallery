@@ -1,4 +1,4 @@
 # css-flexbox-phto-gallery
 
-<a href="https://example.com" target="_blank">Visit Example.com</a>
+<a href="https://codepen.io/awinash-goswami/full/KKbGbRY" target="_blank">Visit Project</a>
 
